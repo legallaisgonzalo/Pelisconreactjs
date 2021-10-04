@@ -1,0 +1,23 @@
+.searchContainer{
+    display: flex;
+    justify-content: center;
+}
+.searchInput{
+    height: 30px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.searchButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    border: none;
+    height: 45px;
+    width: 60px;
+    border-radius: 20px;
+    background: none;
+    color: white;
+}
+.searchBox{
+    position: relative;
+}

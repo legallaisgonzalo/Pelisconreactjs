@@ -1,0 +1,13 @@
+.spinning{
+    font-size: 30px;
+    animation: spinner 5s linear infinite;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+@keyframes spinner{
+    to{
+        transform: rotateX(960deg);
+    }
+}
