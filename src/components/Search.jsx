@@ -1,5 +1,4 @@
 import { useHistory } from "react-router";
-import { useEffect, useState } from "react/cjs/react.development";
 import Style from "./Search.module.css";
 import {useQuery} from "../hooks/useQuery";
 import { FaSearch } from 'react-icons/fa';

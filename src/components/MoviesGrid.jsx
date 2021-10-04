@@ -8,7 +8,7 @@ import style from './MoviesGrid.module.css'
 import { Spinner } from './Spinner';
 
 
-export function MoviesGrid({ }) {
+export function MoviesGrid() {
 
     const [movies, setMovies] = useState([]);
     const [IsLoading, setIsLoading] = useState(true);
