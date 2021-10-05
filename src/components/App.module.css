@@ -3,3 +3,7 @@
     text-shadow: 0 0 30px rgb(245, 176, 176);
     font-size: 3rem;
 }
+
+body{
+    background: linear-gradient(90deg,#141e30,#243b55) 
+}

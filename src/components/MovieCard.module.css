@@ -2,11 +2,12 @@
     list-style: none;
     text-align: center;
     gap: 40px;
+    transition: 0.8s;
 }
 .movieCard:hover{
     list-style: none;
     text-align: center;
-    transform: rotate(10deg);
+    transform: scale(1.1);
     transition: 0.8s;
 }
 
